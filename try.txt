@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Free Will Baptist Church</title>
+    </head>
+    <body>
+        <table style="width: 100%; background-color:rgb(78, 78, 206);color: aliceblue;">
+            <tr>
+                <th>HOME</th>
+                <th>CALENDAR</th>
+                <th>MINISTRIES</th>
+                <th>TESTIMONIALS</th>
+                <th>CONTACT US</th>
+            </tr>
+        </table>
+            <img src="http://www.freewill-baptistchurch.com/assets/images/logo.jpg" style="height: 100px;margin-left: auto;margin-right: auto;display: block">
+        <h1 style="text-align: center;color:blue;font-size: large">MINISTRIES</h1>
+        <p style="text-align: center">Then I heard the voice of the Lord saying, "Whos shall I send? And who will go for us?"</p>
+        <p style="text-align: center">And I said, "Here am I. Send me!" - Isaiah 6:8</p>
+        </table>
+        <h1>
+            <img src="http://www.freewill-baptistchurch.com/assets/images/ministries-pastor.jpg" style="margin-left: 20%;width:400px;float:left">
+            <span style="font-size:200%; margin-left: 5%;color:blue">Free Huell Babineaux!</span><br>
+            <span style="margin-left: 4%">Our Huell needs us now more than ever! Please</span><br>
+            <span style="margin-left: 4%">click the link below to find out how you can help!</span>
+            <p><a href="http://www.freewill-baptistchurch.com/testimonials.php" style="margin-left: 4%">Save Huell Now</a></p>
+        </h1>
+        <table>
+            <td><img src="http://www.freewill-baptistchurch.com/assets/images/cross.jpg" alt="cross" height="100" width="100" style="margin-left: 300px"></td> 
+             <td>
+                 <ul style="text-align: center;"> Other Ministries
+                     <li>Mission Christmas Box</li>
+                     <li>Red River Valley Housing Project</li>
+                     <li>Louisiana Baptist Youth Brigade</li>
+                     <li>Breaking Bread: Community Communion</li>
+                     <li>Down in the River! - Red River Baptism</li>
+                     
+                 </ul>
+             </td>
+             <td><img src="http://www.freewill-baptistchurch.com/assets/images/cross.jpg" alt="cross" height="100" width="100" style="float: right; margin-right: 300px" ></td>
+             </table>
+        </table>
+    </body>      
+</html>
